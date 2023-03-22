@@ -6,4 +6,3 @@ def numero_positivo_negativo(num):
             print('il numero è negativo')
         else:
             print('il numero è 0')
-
